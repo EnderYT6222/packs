@@ -1,0 +1,10 @@
+# PYTOOLS v1.0
+# Bu paket, Orbit dilinde Python kütüphanelerini kullanabilmek için bir köprüdür.
+# Otomatik olarak orbit yorumlayıcısındaki pytools sistemi ile çalışır.
+
+# Kullanım örnekleri:
+# py.os.system("echo Merhaba Orbit!")
+# py.random.randint(1, 10)
+# py.sys.version
+
+# Bu dosya sadece semboliktir. Yorumlama Python tarafında yapılır.
